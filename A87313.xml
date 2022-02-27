@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ignatius his prophecie concerning these times. Sent from France where it was prophecied 159. [sic] into England and found in the Abby of St. Benedict neere the city of Norwich in Norfolke. Containing the praædivination concerning the various distempers and divisions of this kingdome, which was in this prophecie prædictated, and now perfectly fulfilled. Expressing likewise every thing that should succeed betweene the reigne of Queene Elizabeth, unto King Charles now reigning, concerning the crowne and royall empire.</title>
+            <author>Ignatius, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87313</idno>
+            <idno type="STC">Wing I41</idno>
+            <idno type="STC">Thomason E132_23</idno>
+            <idno type="STC">ESTC R21138</idno>
+            <idno type="EEBO-CITATION">99870108</idno>
+            <idno type="PROQUEST">99870108</idno>
+            <idno type="VID">156368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156368)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ignatius his prophecie concerning these times. Sent from France where it was prophecied 159. [sic] into England and found in the Abby of St. Benedict neere the city of Norwich in Norfolke. Containing the praædivination concerning the various distempers and divisions of this kingdome, which was in this prophecie prædictated, and now perfectly fulfilled. Expressing likewise every thing that should succeed betweene the reigne of Queene Elizabeth, unto King Charles now reigning, concerning the crowne and royall empire.</title>
+                  <author>Ignatius, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ignatius is presumably a pseudonym.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156368:1"/>
+            <!-- PDF PAGE 38 -->
+            <pb facs="tcp:156368:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <p>IGNATIVS HIS PROPHECIE Concerning theſe Times.</p>
+            <p>Sent from France where it was prophecied 159. into England and found in the Abby of St Benedict neere the City of Norwich in Norfolke.</p>
+            <p>Containing the Praedivination concerning the various Diſtempe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Diviſions of this Kingdome, which was in this Prophecie prae<g ref="char:EOLhyphen"/>dictated, and now perfectly fulfilled.</p>
+            <p>Expreſsing likewiſe every thing that ſhould ſucceed betweene the Reigne of Queene Elizabeth, unto King Charles now Reig<g ref="char:EOLhyphen"/>ning, concerning the Crowne and Royall Empire.</p>
+            <figure/>
+            <p>LONDON, Printed for <hi>IOHN GREENSMITH,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156368:2"/>
+            <!-- PDF PAGE 39 -->
+            <pb facs="tcp:156368:2"/>
+            <!-- PDF PAGE 39 -->
+            <head>IGNATIUS HIS PROPHECIE Concerning theſe Times.</head>
+            <p>THe <hi>Inundation</hi> of Hereſie which is harb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red in the breaſts of the Schiſmaticks in our days deſerve a ſecond <hi>Cicero</hi> to exclaim againſt the ſame. But the praepoſterous tumult in our Age re<g ref="char:EOLhyphen"/>quires not onely a Prophet, to praedictate the ſub<g ref="char:EOLhyphen"/>ſequent verity, and predetermination of the errours which we are fallen in, but alſo to elevate us from that ſinck of impiety wherein we are now fallen.</p>
+            <p>As for that Prophecy, which I am at this time to deſcribe, it is apparently demonſtrated what ſhould follow in after times, and now it is moſt truly per<g ref="char:EOLhyphen"/>fected, and really come to paſſe, all that was prophe<g ref="char:EOLhyphen"/>cied. Prophecy is the key of heaven, that opens the myſticall doore of thoſe ſecrets, which none but God himſelfe hath praedeſtinated. Prophecy is the To<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of humane knowledge, that defends morta<g ref="char:EOLhyphen"/>lity, and preſerveth Kingdomes from deſtructive ru<g ref="char:EOLhyphen"/>ine Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phecy is a divine inſpiration, that diſcloſeth the myſtery of heavenly things, determined to bee
+<pb facs="tcp:156368:3"/>
+               <!-- PDF PAGE 40 -->
+acted on earth, ſuggeſted by the divine providence of God. When the prophet <hi>Jonah</hi> related the pro<g ref="char:EOLhyphen"/>phecy of God to the City of <hi>Nineve,</hi> it repented, and God turned away the indignation of his ſpirit, and his predetermined reſolution. And would to God this famous and tenowned City would exactly conſider this prophecy which is here mentioned: moſt part whereof is already fullfilled, and therfore I am more ſuſpitious, that all the ſubſequent will likewiſe hereaf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er come to paſſe. My reſolution was once fully intended to make an apparent expoſition of the ſame: but now my reſolution is altered, in reſpect that ſome things are intended of perſons, be<g ref="char:EOLunhyphen"/>ing of higher Majeſty, and greater Dignity, then I dare preſume to gaze upon: wherefore I will com<g ref="char:EOLhyphen"/>mend the mythologie, and apologization thereof to the Cenſure of better judgments.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <head>The Prophecie.</head>
+                        <l>IF Eighty eight be paſt, then thrive</l>
+                        <l>Thou mayſt, till thirty foure, or five.</l>
+                        <l>After the E is dead, a <hi>Scot</hi>
+                        </l>
+                        <l>Shall governe there: and if a plot</l>
+                        <l>prevent him not, ſure then his ſway</l>
+                        <l>Continue ſhall till many a day.</l>
+                        <l>The ninth ſhall dye young, and the firſt</l>
+                        <l>perhaps ſhall reigne: but (oh) accurſt</l>
+                        <l>Shall be the time, when thou ſhalt ſee</l>
+                        <l>To ſixteene joyned twenty three;</l>
+                        <l>For then the Eagle ſhould have helpe</l>
+                        <l>By Craft to catch the Lyons whelpe,</l>
+                        <l>And hurt him ſore; except the ſame</l>
+                        <l>Be cured by the Maidens name.</l>
+                        <l>
+                           <pb facs="tcp:156368:3"/>
+                           <!-- PDF PAGE 40 -->In Iuly moneth of the ſame yeere</l>
+                        <l>Saturne conjoynes with Iupiter.</l>
+                        <l>perhaps falſe prophets ſhall ariſe,</l>
+                        <l>And Mahomet ſhall ſhew his prize.</l>
+                        <l>And ſure much alteration</l>
+                        <l>Shall happen in Religion.</l>
+                        <l>Beleeve this truely, if then you ſee.</l>
+                        <l>A Spanyard a Proteſtant to bee<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </l>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The lines (I confeſſe impartially) are very my<g ref="char:EOLhyphen"/>ſterious, and withall they are involved in a ſtupen<g ref="char:EOLhyphen"/>dious obſcurity. They ſeeme as aenigmaticall, as <hi>Sphynk</hi> his hidden Riddle, yet J doubt not but that your judicous minds will prove as auſpicuous vnto this, as <hi>Oedipus</hi> did to his.</p>
+            <p>You may enucleate the genuine ſence, and ſigni<g ref="char:EOLhyphen"/>fication of the words, if yov doe but ſeriouſly re<g ref="char:EOLhyphen"/>volve them.</p>
+            <p>When the formidable Armado was diſſipated in 88. this Kingdome did flouriſh a long time in peace and proſperous tranquillity, unto one thouſand ſixe hundred and thirty foure or five: After Queene Elizabeth dyed, King James came out of Scotland, and inherited the Imperiall Crowne after her.</p>
+            <p>A plot all men know was moſt nefariouſly hatched in his Reigne, to wit, the Gunpowder trea<g ref="char:EOLhyphen"/>ſon: which not preventing him, hee ſwayed the Scepter very peacefully in a great ſucceſſion of fu<g ref="char:EOLhyphen"/>ture time.</p>
+            <p>
+               <pb facs="tcp:156368:4"/>
+               <!-- PDF PAGE 41 -->Prince <hi>Henry</hi> the 9. of that name dyed young, &amp; King <hi>Charles</hi> the firſt of that name reigned next in Majeſty <hi>(whom God long preſerve, and protect from the wicked Plots of his enemies.)</hi> The beginning of theſe perillous times, begin in 1639. The next 4 verſes I will l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the expoſition of the Reader hereof.</p>
+            <p>The Philoſophers have given their unite a ſtipu<g ref="char:EOLhyphen"/>lation, &amp; withall the Aſtrologians have affirmed in their ſolid aſſertions, that when <hi>Saturne</hi> hath any <hi>coniu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction</hi> with <hi>Iupiter,</hi> great wars and bloudy times ſhall enſue, and I am ſure their opinions have not proved fallible in this reſpect. Many falſe <hi>Prophets</hi> are now riſen amongſt us, and doe prophecy falſe things to the people, who dare preſume to preach in Tubs to their ſchiſmaticall Auditors: whom they delude and ſuggeſt vaine <hi>imaginatio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> unto them, that they are ſent from heaven, and have the ſpirit of God, when they have nothing but the ſpirit of error and falſhood. <hi>Mahomet</hi> hath ſhewne indeed his prize ſufficiently amongſt us, for too many (I ſuppoſe) in our times rather <hi>Mahometans,</hi> then true Chriſtians. The alteration of Religion hath bin very great, and toſſed too and fro by the various wind of every ones opinion.</p>
+            <p>The laſt two verſes I refer to the judgment of the Reader: for I will nominate no man particularly.</p>
+            <p>This prophecy is ſtupendious, and as it includes a miſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, ſo it includes verity withall: as by the former it is involved in obſcurity, ſo by the latter it is illuminated in apparent Truth.</p>
+            <p>
+               <pb facs="tcp:156368:4"/>
+               <!-- PDF PAGE 41 -->The demonſtration of prophetick divination, praedictates the future eſtate of a Kingdome, and whatſoever hath bin expreſſed in this lately menti<g ref="char:EOLhyphen"/>oned, is already fullfilled in exemplary relations.</p>
+            <p>But the diſtracted opinions of moſt men are ſtill ſo promiſcuous, that we want Prophets enough to exclaime againſt them; for ſome they will not heare, others they neglect, others they in a deſpica<g ref="char:EOLhyphen"/>ble deteſtation doe contemne.</p>
+            <p>But God of his infinite mercy grant, that we may hereafter all make true uſe of the ſincere prophecy of him, and his holy Goſpell, that theſe various miſts of errors may be expelled, theſe roaring waves of Schiſme may be calmed, and the diſtem<g ref="char:EOLhyphen"/>pers of the whole Realme cured perfectly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
